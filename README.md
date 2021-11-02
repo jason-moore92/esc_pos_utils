@@ -174,4 +174,6 @@ final profiles = await CapabilityProfile.getAvailableProfiles();
 - Test and report bugs
 - Share your ideas about what could be improved (code optimization, new features...)
 
-asdfasasd fasdfasd fasdf
+asdfasasd fasdfasdxczfsd
+sadfasf 
+afasdf 
