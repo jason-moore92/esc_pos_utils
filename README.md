@@ -177,5 +177,11 @@ final profiles = await CapabilityProfile.getAvailableProfiles();
 - Test and report bugs
 - Share your ideas about what could be improved (code optimization, new features...)
 
+<<<<<<< HEAD
 asdfasasd fasdfasd fasdf
 >>>>>>> 43ddc6ca5b0576daa387b4646ef9a67c5424c231
+=======
+asdfasasd fasdfasdxczfsd
+sadfasf 
+afasdf asdfasdf asdfa sdf
+>>>>>>> e27c3cd34ed144e949b7eb88146f3ca6d26c5923
